@@ -1,0 +1,12 @@
+.bg-dark{
+  background-color: rgb(10,16,33) !important;
+}
+.bg-danger{
+  background-color: rgb(255,19,130) !important;
+}
+.text-danger{
+  color: rgb(255,19,130) !important;
+}
+.btn-danger{
+  background-color: rgb(255,19,130);
+}
