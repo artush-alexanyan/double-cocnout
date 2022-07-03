@@ -1,3 +1,24 @@
 @import url("/css/colors.css");
 @import url("/css/typography.css");
 
+nav .nav-link{
+  font-family: Gilroy, sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 22px;
+}
+.contact_us_btn{
+  font-family:  Barlow, sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 27.6px;  
+  border-radius: 25px;
+}
+.learn_more_btn{
+  font-family:  Barlow, sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 27.6px;  
+  border-radius: 25px;
+  border: 2px solid  rgb(255,19,130);
+}
